@@ -1,0 +1,22 @@
+@media (min-width: 1200px) {
+    .container {
+        width: 1170px;
+    }
+}
+
+.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
+    float: none;
+}
+
+@media (max-width: 1313px) {
+
+}
+.progress{
+    margin-bottom: 0px;
+}
+
+.radio {
+    display: inline-block;
+    margin-top: 0;
+    margin-bottom: 0;
+}
